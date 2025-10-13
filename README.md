@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hej där, jag är Teddy Blomgren</h1>
-<h3 align="center">Systemutvecklare under utbildning | Angular & .NET entusiast</h3>
+<h3 align="center">Systemutvecklare under utbildning
 
 ---
 
