@@ -1,20 +1,20 @@
 <h1 align="center">👋 Hej där, jag är Teddy Blomgren</h1>
-<h3 align="center">Systemutvecklare under utbildning
+<h3 align="center">Systemutvecklare under utbildning</h3>
 
 ---
 
 ## 🧾 Om mig  
-Jag studerar till **systemutvecklare** och fokuserar på att bygga **fullstack-appar** med **Angular 20** och **.NET 9**.  
-Just nu fördjupar jag mig i **C#** och **Angular**, och försöker hela tiden förbättra min förståelse för arkitektur, kodstruktur och UI/UX.  
-Jag gillar att skapa projekt som *PetRegistry*, *Snackis Forum*  — där jag kombinerar frontend, backend och databaser.
+Jag studerar till **systemutvecklare** och fokuserar på att bygga **fullstack-applikationer** med **Angular 20** och **.NET 9**.  
+Just nu fördjupar jag mig i **C#** och **Angular**, och strävar efter att förbättra min förståelse för arkitektur, kodstruktur och UI/UX-design.  
+Jag har skapat projekt som *PetRegistry* och *Snackis Forum*, där jag kombinerar **frontend**, **backend** och **databaser** för att bygga kompletta lösningar.
 
 ---
 
 ## ⚙️ Vad jag gör  
-- 💻 Bygger webbapplikationer med **Angular**, 
-- 🧱 Skapar **.NET API:er** med **Entity Framework** och **SQL Server**  
-- 🎨 Utvecklar responsiva gränssnitt med **Bootstrap** och **Tailwind CSS**  
-- ☁️ Hanterar API:er och databaser via **Azure**  
+- 💻 Har min grund i **C#** och **.NET-utveckling**, där jag bygger API-lösningar med **Entity Framework** och **SQL Server**  
+- 🧩 Utvecklar mina kunskaper inom **Angular** och arbetar med att skapa **fullstack-flöden** mellan frontend och backend  
+- 🎨 Skapar **responsiva och moderna gränssnitt** med **Bootstrap**  
+- ☁️ Arbetar med **Azure** för att hantera och hosta API:er och databaser  
 
 ---
 
@@ -49,9 +49,6 @@ Jag gillar att skapa projekt som *PetRegistry*, *Snackis Forum*  — där jag ko
   </a>
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   </a>
 </p>
 
@@ -90,6 +87,6 @@ Jag gillar att skapa projekt som *PetRegistry*, *Snackis Forum*  — där jag ko
 - 🧩 Fördjupar mig i **Angulars nya kontrollflöde och Signals**  
 - 💡 Förbättrar min **C#-syntax** och förståelse för **.NET-arkitektur**  
 - 🐳 Utforskar **Docker** för bättre utvecklingsmiljöer  
-- 🌐 Implementerar **språkstöd (i18n)** med ngx-translate  
+- 🌐 Implementerar **språkstöd (i18n)** med **ngx-translate**
 
 ---
