@@ -1,10 +1,6 @@
 <h1 align="center">Teddy Blomgren</h1>
 <h3 align="center">Fullstack-utvecklare .NET | Söker juniorroll</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TeddyBlomgren&label=Profile%20Views&color=blue&style=flat" alt="profile views" />
-</p>
-
 ---
 
 ## 🧾 Om mig  
@@ -59,5 +55,7 @@ Jag har även skapat egna projekt som *PetRegistry* och *Snackis Forum*, där ja
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></a>&nbsp;
   <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/></a>
 </p>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TeddyBlomgren&label=Profile%20Views&color=blue&style=flat" alt="profile views" />
+</p>
 ---
